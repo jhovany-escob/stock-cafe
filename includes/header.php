@@ -24,7 +24,7 @@
         <a class="nav-link" href="vender.php">Vender producto</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="index.php">Productos</a>
+        <a class="nav-link" href="index.php">Productos De Cafeteria</a>
     </li>
     
 </nav>
